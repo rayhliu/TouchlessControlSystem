@@ -6,19 +6,17 @@ Azure Kinect Real-Time Touchless Control System on Jetson Edge Device
 - Real-time control response (FPS 25~)
 - Integrate to any device with mouse control easily
 
-<img src="asserts/tcs_demo1_clip0.gif" alt="drawing" width="480"/>
-<img src="asserts/tcs_people_demo.gif" alt="drawing" width="480"/>
+<img src="assets/tcs_demo1_clip0.gif" alt="drawing" width="480"/>
+<img src="assets/tcs_people_demo.gif" alt="drawing" width="480"/>
 
 ## Basic
 - Flowchart
-<img src="asserts/tcs_workflow2.png" alt="drawing" width="720"/>
+<img src="assets/tcs_workflow2.png" alt="drawing" width="720"/>
 
-- Setting & Instruction
-<div style="display:inline-block">
-  <img src="asserts/basic_setting.png" alt="drawing" height="320"/>
-  <img src="asserts/tcs_instruction.png" alt="drawing" height="320"/>
-</div>
-
+<!-- - Setting & Instruction -->
+| Camera Setting  | Control Instruction |
+| --------  | -------- |
+| <img src="assets/basic_setting.png" alt="drawing" height="320"/> | <img src="assets/tcs_instruction.png" alt="drawing" height="320"/> |
 
 
 
